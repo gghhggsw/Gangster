@@ -8,22 +8,22 @@ let handler = async m => m.reply(`
 
 Group1:
 _____________________
-https://chat.whatsapp.com/KIdMzyvnjju4GIuJhATpm4
+https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95
 _______________________
 
 Group2:
 _______________________
-https://chat.whatsapp.com/BhKaFpy9YYRIwtrZUDZMNY
+https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95
 _________________________
 
 *DEVELOPERS*/
 1:___________________🔰 *MOD'S* 🔰_
-wa.me/923184070915
-𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -𝘼𝙝𝙢𝙢𝙞
+wa.me/263716394979
+TCRONEB HACKX
 
 2:__________________🔰 *MOD'S* 🔰_
-wa.me/233533763772
-*ABRAHAM DWAMENA*
+wa.me/263716394979 
+*TCRONEB HACKX*
 _______________________
 𝐋ᶦᵏᵉ  𝐂ᵒᵐᵐᵉⁿᵗ   𝐒ᵃᵛᵉ   𝐒ʰᵃʳᵉ
 💫   🍷   🎊   🍁   🌙   🪄 
@@ -35,10 +35,10 @@ _______________________
 ┊   💛
 ❤️
 *_▬▭▬▭▬▭▬▭▬▭_*
-*╰─ ➤XLICON V2*                    
+*╰─ ➤GANGSTER V10*                    
                      ☟︎︎︎
- *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎TEAM XLICON
-Salman amand & Abraham Dwamena
+ *̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊̊╰─☞︎︎︎TEAM WORLD OF TECH
+TCRONEB HACKX
  ♥️     ✍🏻ㅤ   📩     📤 
  *_ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ    ˢʰᵃʳᵉ_*
 `.trim())
