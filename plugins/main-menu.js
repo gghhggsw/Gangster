@@ -12,9 +12,9 @@ const defaultMenu = {
 ⍟────────────────⍟
 *REMEMBER THIS BOT IS FOR EDUCATIONAL PURPOSES*
 ⍟────────────────⍟
-*©Salman Ahmad*
+*©TCRONEB HACKX*
 ⍟────────────────⍟
-*_𝙷𝙸 ! It's 𝙸𝙱𝙱𝙾𝚃-𝚇MD-𝚅10 A Multi-Device Whatsapp BOT_*
+*_𝙷𝙸 ! It's GANGSTER-𝚅10 A Multi-Device Whatsapp BOT_*
 *_Recoded By 𝚃𝙲𝚁𝙾𝙽𝙴𝙱 𝙷𝙰𝙲𝙺𝚇_*
 ⍟────────────────⍟
                                    
@@ -46,7 +46,7 @@ const defaultMenu = {
 ┃
 ┃ *_Name_*: %name
 ┃ *_Gold_*: %credit
-┃ *_Role_*: 𝙸𝙱𝙱𝙾𝚃-𝚇𝙼𝙳-TESTER
+┃ *_Role_*: GANGSTER-TESTER
 ┃ *_Level_*: %level [%xp4levelup XP for level up]
 ┃ *_Xp_*: %exp / %maxexp
 ┃ *_Total Xp_*: %totalexp
