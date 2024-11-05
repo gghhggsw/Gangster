@@ -19,7 +19,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     
     if (!(who in global.db.data.users)) throw `✳️ The user is not found in my database`;
     
-    let pp = './Assets/XLICON-V2.jpg';
+    let pp = './Assets/Gangster.jpg';
     let user = global.db.data.users[who];
     let { name, exp, diamond, lastclaim, registered, regTime, age, level, role, warn } = global.db.data.users[who];
     let { min, xp, max } = xpRange(user.level, global.multiplier);
@@ -41,7 +41,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 🌠 *_Bible quote of the day: ${quote}_* 🌠
 
 ┏━━🤖 _BOT STATUS:_🤖━━┓
-┃ 🏮  *Founder:* Salman Ahmad
+┃ 🏮  *Founder:* TCRONEB HACKX 
 ┃ 🤡  *Bot Name:* ${botname} 
 ┃ 💻  *Host:* Kali Linux
 ┃ 📣  *Prefix:* ${usedPrefix} 
