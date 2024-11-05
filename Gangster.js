@@ -379,7 +379,7 @@ async function connectionUpdate(update) {
   if (connection === 'open') {
     const { jid, name } = conn.user
 
- const msg = `Hai🤩${name} Congrats you have successfully deployed xlicon-v2-BOT\nJoin my support Channel for any Query\n https://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c`
+ const msg = `YOO GANGSTER ${name} Congrats you have successfully deployed GANGSTET-v10-XMD\nJoin my support telegram channel for any Query\n https://t.me/tcronebhackx`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
     
