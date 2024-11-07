@@ -10,28 +10,19 @@ const defaultMenu = {
   「 ${botname} 🎁XMD 」
   *%ucpn*
 ⍟────────────────⍟
-*REMEMBER THIS BOT IS FOR EDUCATIONAL PURPOSES*
-⍟────────────────⍟
 *©TCRONEB HACKX*
 ⍟────────────────⍟
 *_𝙷𝙸 ! It's GANGSTER-𝚅10 A Multi-Device Whatsapp BOT_*
-*_Recoded By 𝚃𝙲𝚁𝙾𝙽𝙴𝙱 𝙷𝙰𝙲𝙺𝚇_*
 ⍟────────────────⍟
                                    
- ░▀ █▀█▄░█  
- █░█ █▄▄ █ █▄▄ █▄█ █░▀█  
-           █▀▄▀█ █▀▄
- █░▀░█ █▄▀
-
+ █░█ █ █▄▄█▄█ █░▀█ █▀▄▀█ █▀▄▀
 ╭─────────────────⦿
-┃   🔰〘 𝙄𝙉𝙁𝙊 〙🔰
-╰┬────────────────⦿
+┃   �┬────────────────⦿
 ┌┤
-┃
 ┃ *_Founder_*: 𝐓𝐂𝐑𝐎𝐍𝐄𝐁 𝑯𝑨𝑪𝑲𝑿
 ┃ *_Bot Name_*: ${botname}
 ┃ *_Mode_*: %mode
-┃ *_HOST_*: Kali Linux
+┃ *_HOST_*: WFT TERMUX
 ┃ *_Type_*: NodeJs
 ┃ *_Baileys_*: Multi Device
 ┃ *_Prefix_*: [ *%_p* ]
@@ -188,7 +179,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 
     text = text.replace(new RegExp(`%(${Object.keys(replacements).sort((a, b) => b.length - a.length).join("|")})`, "g"), (_, name) => replacements[name]);
 
-    const pp = "./Assets/XLICON-V2.jpg";
+    const pp = "./Assets/Gangster.jpg";
 
     let contact = {
       key: {
