@@ -56,21 +56,21 @@ let handler = async (m, { conn }) => {
   let user = global.db.data.users[who];
 
   try {
-    let repo_Data = await axios.get('https://api.github.com/repos/salmanytofficial/XLICON-V2-MD');
+    let repo_Data = await axios.get('https://api.github.com/repos/Dark-Town/Gangster);
     let { stargazers_count, forks, owner, created_at, html_url } = repo_Data.data;
 
     let infobt = `
-🔰 *I'm XLICON-V2.* *A WhatsApp chuddy buddy bot with rich features* *Created By SALMAN AMAD and Abraham Dwamena*. 🔰
+🔰 *I'm Gangster-v10.* *A WhatsApp chuddy buddy bot with rich features* *Created By Tcroneb Hackx*. 🔰
 
 *❲❒❳ Stars:* ${stargazers_count} Stars ⭐
 *❲❒❳ Forks:* ${forks} Forks 🍴
-*❲❒❳ Author:* *Salman Ahmad* 😎
+*❲❒❳ Author:* *TCRONEB HACKX* 😎
 *❲❒❳ Create:* ${created_at} 
 *❲❒❳ Repo:* ${html_url}
-*❲❒❳ Scan:* https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING
-*❲❒❳ Visit For Tutorial:* www.youtube.com/@s4salmanyt
+*❲❒❳ Scan:* https://replit.com/@Dark-Town/Gangster
+*❲❒❳ Visit For Tutorial:* www.youtube.com/@cbf_263
 
-🔰 *Created ʙʏ XLICON TEAM* 🔰
+🔰 *Created ʙʏ WORLD_OF_TECH TEAM* 🔰
 
 *🕣 S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
