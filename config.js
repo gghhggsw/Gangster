@@ -51,7 +51,7 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = '𝙸𝙱𝙱𝙾𝚃-𝚇𝙼𝙳-𝚅10'
+global.botname = '🇬 🇦 🇳 🇬 🇸 🇹 🇪 🇷'
 global.premium = 'true'
 global.packname = '𝚆𝙾𝚁𝙻𝙳 𝙾𝙵 𝚃𝙴𝙲𝙷 TEAM' 
 global.author = '@TcronebHackx-Md' 
@@ -64,7 +64,7 @@ global.fgpyp = 'https://youtube.com/@cbf_263'
 global.fglog = 'Gangster.jpg' 
 global.thumb = fs.readFileSync('./Gangster.jpg')
 
-global.wait = '*🕣 _𝙸𝙱𝙱𝙾𝚃-𝚇𝙼𝙳-𝚅10 IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _🇬 🇦 🇳 🇬 🇸 🇹 🇪 🇷 -𝚅10 IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
