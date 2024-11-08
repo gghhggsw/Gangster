@@ -21,14 +21,14 @@
 
 ### 2. GET SESSION-ID HERE 
 
-<a href='https://toxxic-site.vercel.app/' target="_blank"><img alt='GET CREDS.JSON' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a href='https://express-pairing-code2.onrender.com/' target="_blank"><img alt='GET SESSION-ID' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
   
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Toxic1239/Queen-RiasV2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Dark-Town/Gangster' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
 
 <p align="center">
