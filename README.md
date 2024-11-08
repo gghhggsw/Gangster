@@ -97,17 +97,13 @@ npm start
 ***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
-### LICENSE 
--The 𝙶𝙰𝙽𝙶𝚂𝚃𝙴𝚁 is released under the [MIT License](https://opensource.org/licenses/MIT).
-
--Enjoy the diverse features of the QUEEN-RIAS  to enhance your conversations and make your WhatsApp experience more interesting!
+-Enjoy the diverse features of the GANGSTER  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On TELEGRAM**](https://t.me/tcronebhackx)
-- [**CHANNEL**](https://whatsapp.com/channel/) 
-***
+- [**TELEGRAM CHANNEL**](https://t.me/tcronebhackx)
+- 
 ### WARNING
 
 - **𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑 𝐗𝐌𝐃 𝐕10 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
@@ -118,12 +114,3 @@ npm start
 ![Visitor Count](https://profile-counter.glitch.me/Riasgv2/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- ## [WEBSITE](https://𝐝𝐚𝐫𝐤𝐭𝐨𝐰𝐧-site.vercel.app/) 
-### THANKS TO:
-
-- Myself 𝐓𝐂𝐑𝐎𝐍𝐄𝐁 𝐇𝐀𝐂𝐊𝐗 For making This bot
-- B.m.b for his support and some cases added 
-- Veran For Support
-- Xeon for Some Cases
-- King for Fixing Some Cases 
