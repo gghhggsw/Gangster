@@ -5,18 +5,15 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;🇬 🇦 🇳 🇬 🇸 🇹  🇪 🇷  +🇻10;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+🇹 🇨 🇷 🇴 🇳 🇪 🇧 +BOY;RELEASED+28.09.24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://ibb.co/MsM8G1b"><img src="https://i.ibb.co/bPzH2vx/IMG-20240906-154743-430.jpg" alt="IMG-20240906-154743-430" border="0"></a>
+    <a href="https://ibb.co/MsM8G1b"><img src="" alt="IMG-20240906-154743-430" border="0"></a>
 <p align="center">
 <pQUEEN-RIAS align="center">
 <a href="https://github.com/Dark-Town/Gangster"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/TcronebHackx-Md/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
+<a href="https://github.com/TcronebHackx-Md/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Town?color=blue&style=flat-square"></a>
 <a href="https://github.com/Dark-Town/Gangster/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV2?color=red&style=flat-square"></a>
-<a href="https://github.com/Dark-Town/Gangster/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Queen-RiasV2?color=green&style=flat-square"></a>
-<a href="https://github.com/Dark-Town/Gangster/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Queen-RiasV2?label=Watchers&color=yellow&style=flat-square"></a>
-
-#### SETUP 
-<p>IF YOU WANNA DEPLOY USING CREDS.JSON ADD THE CREDS TO SESSIONS FOLDER </p>
+<a href="https://github.com/Dark-Town/Gangster/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dark-Town/Gangster?color=green&style=flat-square"></a>
+<a href="https://github.com/Dark-Town/Gangster/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Town/Gangster?label=Watchers&color=yellow&style=flat-square"></a>
 
 ### 1.`First STAR 🌟 This Repo ` And Then Click Fork Below
 <br>
