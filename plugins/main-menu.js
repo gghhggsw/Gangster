@@ -7,7 +7,7 @@ import fetch from "node-fetch";
 
 const defaultMenu = {
   before: `
-  「 ${botname} 🎁𝚅10 」
+  「 ${botname} 🚀」
   *%ucpn*
 
 ⍟🇬 🇦 🇳 🇬 🇸 🇹 🇪 🇷 
