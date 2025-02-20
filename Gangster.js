@@ -90,11 +90,11 @@ async function gandu() {
 
     const lund = Buffer.from('Z3VydQ==', 'base64').toString()
     const lawde = Buffer.from(
-      `xliconv2~Q2hlYXAgQ29weSBPZiBHdXJ1IEJvdCBGb3VuZCAsIFBsZWFzZSBVc2UgdGhlIE9yaWdpbmFsIEd1cnUgQm90IEZyb20gaHR0cHM6Ly9naXRodWIuY29tL0d1cnUzMjIvR1VSVS1CT1QK`,
+      `Q2hlYXAgQ29weSBPZiBHdXJ1IEJvdCBGb3VuZCAsIFBsZWFzZSBVc2UgdGhlIE9yaWdpbmFsIEd1cnUgQm90IEZyb20gaHR0cHM6Ly9naXRodWIuY29tL0d1cnUzMjIvR1VSVS1CT1QK`,
       'base64'
     ).toString()
     const endi = Buffer.from(
-      `xliconv2~U2VjdXJpdHkgY2hlY2sgcGFzc2VkLCBUaGFua3MgRm9yIHVzaW5nIEd1cnUgTXVsdGlEZXZpY2U=`,
+      `xliconv2~QSVFTJZI#Q7UHbbtdSGAUCyet6cG6500UVxMuP0e5DNUIeRVkd0U`,
       'base64'
     ).toString()
 
