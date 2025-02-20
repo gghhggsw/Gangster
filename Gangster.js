@@ -94,7 +94,7 @@ async function gandu() {
       'base64'
     ).toString()
     const endi = Buffer.from(
-      `xliconv2~QSVFTJZI#Q7UHbbtdSGAUCyet6cG6500UVxMuP0e5DNUIeRVkd0U`,
+      `U2VjdXJpdHkgY2hlY2sgcGFzc2VkLCBUaGFua3MgRm9yIHVzaW5nIEd1cnUgTXVsdGlEZXZpY2U=`,
       'base64'
     ).toString()
 
@@ -103,14 +103,16 @@ async function gandu() {
       process.exit(1)
     } else {
       console.log(`${endi}`)
-      console.log(chalk.bgBlack(chalk.redBright('initializing Guru Bot')))
+      console.log(chalk.bgBlack(chalk.redBright('initializing XLICON Bot')))
     }
   } catch (error) {
     console.error('Error:', error)
   }
 }
 
-gandu()
+gandu().catch(error => {
+  console.error('Unhandled error in gandu function:', error);
+});
 
 const pairingCode = !!global.pairingNumber || process.argv.includes('--pairing-code')
 const useQr = process.argv.includes('--qr')
@@ -379,7 +381,7 @@ async function connectionUpdate(update) {
   if (connection === 'open') {
     const { jid, name } = conn.user
 
- const msg = `YOO GANGSTER ${name} Congrats you have successfully deployed GANGSTET-v10-XMD\nJoin my support telegram channel for any Query\n https://t.me/tcronebhackx`
+ const msg = `Hai🤩${name} Congrats you have successfully deployed xlicon-v2-BOT\nJoin my support Channel for any info\n https://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
     
