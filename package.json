@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/salmanytofficial/XLICON-V2-MD",
+    "homepage": "https://github.com/Dark-Town/Gangster",
     "author": {
         "name": "GURU"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/salmanytofficial/XLICON-V2-MD.git"
+        "url": "git+https://github.com/Dark-Town/Gangster.git"
     },
     "bugs": {
-        "url": "https://github.com/salmanytofficial/XLICON-V2-MD/issues"
+        "url": "https://github.com/Dark-Town/Gangster/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
