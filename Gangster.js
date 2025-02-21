@@ -103,7 +103,7 @@ async function gandu() {
       process.exit(1)
     } else {
       console.log(`${endi}`)
-      console.log(chalk.bgBlack(chalk.redBright('initializing XLICON Bot')))
+      console.log(chalk.bgBlack(chalk.redBright('initializing Xmd Plus')))
     }
   } catch (error) {
     console.error('Error:', error)
@@ -279,7 +279,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 62xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 263xx"))
       )
       process.exit(0)
     }
@@ -291,7 +291,7 @@ if (pairingCode && !conn.authState.creds.registered) {
 
     if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
       console.log(
-        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 62xxx"))
+        chalk.bgBlack(chalk.redBright("Start with your country's WhatsApp code, Example : 263xx"))
       )
 
       phoneNumber = await question(
@@ -381,7 +381,7 @@ async function connectionUpdate(update) {
   if (connection === 'open') {
     const { jid, name } = conn.user
 
- const msg = `Hai🤩${name} Congrats you have successfully deployed xlicon-v2-BOT\nJoin my support Channel for any info\n https://whatsapp.com/channel/0029VaMGgVL3WHTNkhzHik3c`
+ const msg = `H𝐞𝐥𝐥𝐨🤩${name} 𝐒uccessfully deployed 𝚃𝙲𝚁𝙾𝙽𝙴𝙱-𝚇𝙼𝙳-𝙿𝙻𝚄𝚂\nJoin my support Channel for any info\n https://t.me/tcronebhackx`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
     
